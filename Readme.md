@@ -5,5 +5,5 @@
 <li>Then we have to pull the required model.Here iam pulling ollama3.2</li>
 ollama pull llama3.2
 <li>Then install required python libraries</li>
-<p>pip install streamlit ollama</p>
+pip install streamlit ollama
 </ul>
